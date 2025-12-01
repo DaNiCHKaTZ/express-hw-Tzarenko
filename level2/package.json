@@ -1,0 +1,31 @@
+{
+  "name": "level2",
+  "version": "1.0.0",
+  "description": "Answer for second level",
+  "keywords": [
+    "Node",
+    "Express"
+  ],
+  "homepage": "https://github.com/DaNiCHKaTZ/express-hw-Tzarenko#readme",
+  "bugs": {
+    "url": "https://github.com/DaNiCHKaTZ/express-hw-Tzarenko/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaNiCHKaTZ/express-hw-Tzarenko.git"
+  },
+  "license": "ISC",
+  "author": "Tzarenko Daniil",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+    "dev": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
