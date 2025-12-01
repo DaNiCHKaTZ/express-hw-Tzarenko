@@ -9,7 +9,7 @@
 1. Склонировать репозиторий:
 ```bash
 git clone https://github.com/DaNiCHKaTZ/express-hw-Tzarenko.git
-cd express-hw-Tzarenko
+cd express-hw-Tzarenko/level1
 ```
 
 2. Установить зависимости:
