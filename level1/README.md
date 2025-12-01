@@ -9,7 +9,7 @@
 1. Склонировать репозиторий:
 ```bash
 git clone https://github.com/DaNiCHKaTZ/express-hw-Tzarenko.git
-cd express-hw-Tzarenko
+cd express-hw-Tzarenko/level1
 ```
 
 2. Установить зависимости:
@@ -58,7 +58,7 @@ curl http://localhost:3000/status
 ```json
 {
   "status": "OK",
-  "time": "2024-01-15T10:30:45.123Z"
+  "time": "2025-12-01T09:25:00.443Z"
 }
 ```
 
